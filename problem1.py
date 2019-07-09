@@ -1,0 +1,7 @@
+print("Hel lo My name is \'Karan\'. I love Coding")
+print("This is my \'first program\'")
+x = int(input("Please provide 3 integer values : "))
+y = int(input())
+z = int(input())
+print("Value1=",x,", Value2=",y,", Value3=",z)
+print(type(x),type(y),type(z))
