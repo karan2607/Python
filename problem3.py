@@ -1,0 +1,15 @@
+x=10+20*(45+67.0)
+print(x)
+print(type(x))
+x= (True and False) or False
+print(x)
+print(type(x))
+x= (True or True) and (not False and True)
+print(x)
+print(type(x))
+x= (3>89) or (34>32)
+print(x)
+print(type(x))
+x= not True and False
+print(x)
+print(type(x))
